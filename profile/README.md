@@ -1,4 +1,4 @@
-![Banner](./aeron_github.png)
+![Banner](../aeron_github.png)
 
 # Aeron Systems
 
