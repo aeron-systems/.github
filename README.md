@@ -1,3 +1,5 @@
+![Banner](./aeron_github.png)
+
 # Aeron Systems
 
 Aeron Systems is a leading provider of advanced solutions in the fields of Inertial Navigation Systems and Industrial Internet of Things.
